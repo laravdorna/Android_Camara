@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppPermisosCamara</string>
+    <string name="camara">CAMARA</string>
+    <string name="aqu_est_tu_imagen">aquí está tu imagen!</string>
+    <string name="permisos">permisos</string>
+    <string name="todo">TODO</string>
+</resources>
